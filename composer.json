@@ -1,0 +1,19 @@
+{
+    "name": "bhtomming/cut-price-bundle",
+    "description": "first bundle",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bhtomming",
+            "email": "233238526@qq.com"
+        }
+    ],
+    "require": {
+        "php": "~7.1"
+    },
+    "autoload": {
+        "psr-4": { "Cut\\PriceBundle\\": "" }
+    },
+    "minimum-stability": "@dev"
+}
